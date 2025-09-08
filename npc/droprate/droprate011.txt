@@ -1,0 +1,7 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+		18	1	2079	1	22500		Siro Nguyên Chất
+		18	1	2077	1	20000		Đá Bào
+		18	1	114	7	20000		Gạo Nếp
+		18	1	2083	1	15000		Nhân Bánh Ngọc Bích
+		18	1	2084	1	10000		Lá Gói Bánh Ngọc Bích
+		18	1	25194	1	15000		Bình Ngọc Bích

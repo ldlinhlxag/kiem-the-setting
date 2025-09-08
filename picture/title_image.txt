@@ -1,0 +1,12 @@
+ID	ImageName	Des
+1	image\effect\other\guanxian_title_1a_vn.spr	Trí Sự
+2	image\effect\other\guanxian_title_2a_vn.spr	Tư Mã
+3	image\effect\other\guanxian_title_3a_vn.spr	Thái Thú
+4	image\effect\other\guanxian_title_4a_vn.spr	Thiếu Khanh
+5	image\effect\other\guanxian_title_5a_vn.spr	Thượng Khanh
+6	image\effect\other\guanxian_title_6a_vn.spr	Quốc Công
+7	image\effect\other\guanxian_title_7a_vn.spr	Thừa Tướng
+8	image\effect\other\guanxian_title_8a_vn.spr	Hoàng Đế
+9	image\danhhieu\DHCaoThuCauCa.spr	Cao Thủ Câu Cá
+10	image\danhhieu\DHXungBaNhatPhuong.spr	Xưng Bá Nhất Phương
+11	\image\vongsangvip\DHDietYeuTruMa.spr	Diet Yeu Tru Ma

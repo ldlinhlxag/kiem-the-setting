@@ -1,0 +1,6 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+100000						450000		bạc
+		18	1	1	6	250000		Huyền tinh 6
+		18	1	1	7	250000		Huyền tinh 7
+		18	1	1335	1	25000		Chân Nguyên Tu Luyện Đơn
+		18	1	1334	1	25000		Thánh Linh bảo hạp hồn

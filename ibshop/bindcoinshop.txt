@@ -1,0 +1,20 @@
+ID vật phẩm	Miêu tả vật phẩm
+301	Bạch Câu Hoàn
+302	Đại Bạch Câu Hoàn
+309	Vô Hạn Truyền Tống Phù (1 tuần)
+310	Vô Hạn Truyền Tống Phù (1 tháng)
+315	Vô Hạn Hồi Thành Phù (1 tuần)
+316	Vô Hạn Hồi Thành Phù (1 tháng)
+319	Càn Khôn Phù (10)
+322	Cửu Chuyển Tục Mệnh Hoàn
+326	Kim Tê (cấp 3)
+325	Kim Tê (cấp 4)
+329	Mã bài (Đại Uyển Mã)
+330	Mã bài (Ô Truy)
+353	Chìa khóa đồng
+354	Chìa khóa bạc
+355	Chìa khóa vàng
+356	Ốc biển truyền thanh (tiểu)
+585	Rương Linh Chi Tục Mệnh Hoàn
+586	Rương Tuyết Sam Phản Khí Hoàn
+587	Rương Diêu Trì Đại Hoàn Đơn

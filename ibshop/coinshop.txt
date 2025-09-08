@@ -1,0 +1,66 @@
+ID vật phẩm	Miêu tả vật phẩm
+1	Bạch Câu Hoàn
+2	Đại Bạch Câu Hoàn
+9	Thỏi vàng
+4	Thỏi vàng (đại)
+10	Thùng rượu (5 bình)
+11	Thùng rượu (50 bình)
+49	Lệnh bài chúc phúc (sơ)
+50	Lệnh bài chúc phúc (trung)
+12	Vô Hạn Truyền Tống Phù (1 tuần)
+13	Vô Hạn Truyền Tống Phù (1 tháng)
+18	Vô Hạn Hồi Thành Phù (1 tuần)
+19	Vô Hạn Hồi Thành Phù (1 tháng)
+22	Càn Khôn Phù (10)
+24	Lệnh bài triệu hồi gia tộc
+25	Giấy phép bày bán
+26	Cửu Chuyển Tục Mệnh Hoàn
+27	Lệnh Bài Hình Bộ
+28	Từ Bi Tâm Kinh
+29	Không Bạch Tâm Thư (sơ)
+30	Không Bạch Tâm Thư (trung)
+32	Kim Tê (cấp 4)
+33	Kim Tê (cấp 3)
+35	Lệnh bài Tẩy Tủy Đảo
+36	Mã bài (Đại Uyển Mã)
+37	Mã bài (Ô Truy)
+40	Tinh Khí Tán (500)
+41	Tinh Khí Tán (1000)
+43	Hoạt Khí Tán (500)
+44	Hoạt Khí Tán (1000)
+46	Thiên Nhãn Phù
+57	Lệnh Bài Nghĩa Quân
+58	Lệnh bài thi đấu môn phái (cao)
+59	Lệnh Bài Bạch Hổ Đường (cao)
+60	Lệnh Bài Gia Tộc (cao)
+61	Lệnh bài chiến trường (Dương Châu)
+62	Lệnh bài chiến trường (Phượng Tường)
+64	Lệnh bài Uy danh giang hồ
+68	Bản đồ bí cảnh
+112	Võ Lâm Cao Thủ Lệnh (sơ) (Kim)
+113	Võ Lâm Cao Thủ Lệnh (sơ) (Mộc)
+114	Võ Lâm Cao Thủ Lệnh (sơ) (Thủy)
+115	Võ Lâm Cao Thủ Lệnh (sơ) (Hỏa)
+116	Võ Lâm Cao Thủ Lệnh (sơ) (Thổ)
+137	[Chân nguyên] Diệp Tịnh
+138	[Chân nguyên] Bảo Ngọc
+139	[Chân nguyên] Hạ Tiểu Sảnh
+140	[Chân nguyên] Oanh Oanh
+141	[Chân nguyên] Mộc Siêu
+142	[Chân nguyên] Tử Uyển
+143	[Chân nguyên] Tần Trọng
+144	[Thánh Linh]Kim Quang Phát Hoạt
+145	[Thánh Linh]Mộc Tinh Nhân Dã
+146	[Thánh Linh]Thủy Tức Hàn Long
+147	[Thánh Linh]Hỏa Thiên Nhất Thống
+148	[Thánh Linh]Thổ Khiếu Vân Vân
+149	Đồng hành Tẩy Tủy Kinh (thường)
+207	Chìa khóa đồng
+208	Chìa khóa bạc
+209	Chìa khóa vàng
+210	Ốc biển truyền thanh (tiểu)
+211	Ốc biển truyền thanh (trung)
+222	Dây cương thần bí [ngựa cấp 90]
+232	Giỏ Hoa Tình (10)
+233	Giỏ Hoa Tình (100)
+234	Giỏ Hoa Tình (1000)
