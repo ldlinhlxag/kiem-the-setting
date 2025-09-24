@@ -397,7 +397,7 @@ Id	PosType	Layer	AdjustColor	ImageFile	IconFile	Loop	Buff	DrawProp	Tip
 396	body	1		\image\effect\fightskill\shaolin\sl_100_rysgg_b.spr	\image\icon\fightskill\state\ruyisuogugong.spr	0	1	3	Như Ý Thúc Cốt Công			
 397	ground	1		\image\effect\fightskill\tianwang\tw_100_lhdmq_b.spr	\image\icon\fightskill\state\lianhuanduomingqiang.spr	1	1	3	Liên Hoàn Đoạt Mệnh			
 398	ground	1		\image\effect\fightskill\emei\em_100_wxsg_a.spr	\image\icon\fightskill\state\wanxiangshengong.spr	0	1	2	Vạn Tướng Thần Công 			
-399	head	1		\image\effect\fightskill\gaibang\gb_100_bwxj_b.spr	\image\icon\fightskill\state\bawangxiejia.spr	1	1	3	Bá Vương Tá Giáp			
+399	head	1		\image\effect\fightskill\gaibang\gb_100_bwxj_b.spr	\image\icon\fightskill\state\bawangxiejia.spr	1	1	3	Thiệu Thánh Tá Giáp			
 400		0			\image\icon\fightskill\state\piaoyishenfa.spr	1	1	2	Nguyệt Hoa Thiên Lý			
 401	ground	0		\image\effect\other\beauty_1.spr		1	0					
 402	ground	0		\image\effect\other\beauty_2.spr		1	0					
@@ -410,7 +410,7 @@ Id	PosType	Layer	AdjustColor	ImageFile	IconFile	Loop	Buff	DrawProp	Tip
 409	body	1		\image\effect\other\vip_aura_2.spr		1	0					
 410	body	1		\image\effect\other\vip_aura_3.spr		1	0					
 411	ground	0		\image\effect\fightskill\gaibang\gb_100_mcqh_b.spr	\image\icon\fightskill\state\mingchaqiuhao.spr	1	1	2	Minh Sát Thu Hào			
-412	head	1			\image\icon\fightskill\state\autocd1.spr	1	0		Bá Vương Tá Giáp đang được sử dụng.			
+412	head	1			\image\icon\fightskill\state\autocd1.spr	1	0		Thiệu Thánh Tá Giáp đang được sử dụng.			
 413	head	1			\image\icon\fightskill\state\autocd1.spr	1	0		Mục Dã Ưng Dương đang được sử dụng.			
 414	ground	1		\image\effect\fightskill\public\rage_earth_c2.spr	\image\icon\fightskill\state\fukong.spr	1	0		Phù Không, không thể di chuyển, không thể xuất chiêu			
 415	ground	0	Red		\image\icon\fightskill\state\zhican.spr	1	0		Chí Tàn, không thể dùng khinh công			
@@ -455,7 +455,7 @@ Id	PosType	Layer	AdjustColor	ImageFile	IconFile	Loop	Buff	DrawProp	Tip
 460	body	1		\image\effect\fightskill\emei\em_30_chpd_d.spr	\image\icon\fightskill\state\cihangpudu.spr	0	1	2	Bình nước nhỏ_Cộng máu			
 461	body	1		\image\effect\fightskill\public\blade_d.spr	\image\icon\fightskill\state\cihangpudu.spr	0	1	2	Cuốc nhỏ_Giảm máu			
 462	ground	1		\image\effect\other\vip_aura.spr		1	0					
-463	body	1		\image\effect\other\meinv1_5.spr		1	1	2	Cuu kiem Kiếm Thế Rồng			
+463	ground	0		\image\vongsang\cuukiem.spr		1	1	2	Thiên Hạ Vô Song			
 464		0			\image\icon\fightskill\state\chengshuangshi.spr	1	1		Bất khuất			
 465	ground	1		\image\effect\other\state_boss.spr		1	1	1	Đang ngồi			
 470		0			\image\icon\fightskill\state\partner\zhuangbeijiesuo.spr	1	0		Nhắc nhở mở khóa trang bị Đồng hành			
@@ -564,7 +564,7 @@ Id	PosType	Layer	AdjustColor	ImageFile	IconFile	Loop	Buff	DrawProp	Tip
 573		1			\image\icon\fightskill\state\kurongchangong.spr	1	1		Tăng 50% điểm khi dùng các lệnh bài danh vọng BHĐ,TK,GT,MP,NQ,VLCT			
 574		1			\image\icon\fightskill\state\kurongchangong.spr	1	1		Sử dụng Hồn Thạch cường hóa Ngũ Hành Ấn, hiệu quả tăng 20%			
 575		0			\image\icon\fightskill\state\partner\shanchutongban.spr	1	1		Tăng sức mạnh			
-576	body	0		\image\fightskill\qiandaizan.txt	Phi Long Tại Thiên	0	1			Phi Long Tại Thiên	576	576
+576	body	1		\script\kin\kingame\item\qiandaizan.txt	Phi Long Tại Thiên	0	1			Phi Long Tại Thiên	576	576
 581	body	1		\image\effect\fightskill\npc\junying__BOSS_1.spr		0	1		Càn Dương Thần Chỉ			
 582	body	1		\image\effect\fightskill\npc\junying__BOSS_2.spr		0	1		Càn Dương Thần Chỉ			
 583	body	1		\image\effect\fightskill\npc\xoyo_jiantou3.spr	\script\item\class\xiulizantld.lua	1	1	2	Như Lai Thần Quyết (Đao)			
@@ -612,7 +612,7 @@ Id	PosType	Layer	AdjustColor	ImageFile	IconFile	Loop	Buff	DrawProp	Tip
 665	head	1		\image\danhhieu\DHCaoThuCauCa.spr	\image\danhhieu\DHCaoThuCauCa.spr	1	0	1	cao thu cau ca
 666	ground	0		\image\trungsinh\ts1.spr	\image\trungsinh\ts1.spr	1	0	1	
 667	ground	0		\image\trungsinh\ts2.spr	\image\trungsinh\ts2.spr	1	0	1	
-668	body	1		\image\effect\fightskill\xiaoyao\xy_30_zqfgy_a.spr		1	1					
+668	ground	0		\image\trungsinh\ts3.spr	\image\trungsinh\ts3.spr	1	0	1	
 669	ground	0		\image\trungsinh\ts4.spr	\image\trungsinh\ts4.spr	1	0	1	
 670	ground	0		\image\trungsinh\ts5.spr	\image\trungsinh\ts5.spr	1	0	1	
 671	ground	0		\image\trungsinh\ts6.spr	\image\trungsinh\ts6.spr	1	0	1	
@@ -621,24 +621,100 @@ Id	PosType	Layer	AdjustColor	ImageFile	IconFile	Loop	Buff	DrawProp	Tip
 674	ground	0		\image\trungsinh\ts9.spr	\image\trungsinh\ts9.spr	1	0	1	
 675	ground	0		\image\trungsinh\ts10.spr	\image\trungsinh\ts10.spr	1	0	1	
 676	body	0		\image\vongsang\xoyo_saiyaren_d.spr	Cánh Lam	1	0	1	
-677	ground	1		\image\effect\fightskill\tianren\tr_110_fhwj_b.spr		0	1		Thiên vương chùy 180			
-678	body	1		\image\effect\fightskill\zongmen\zh_130_chenxifuxiao_a.spr		0	1		Chiến nhẫn 180			
-679	body	1		\image\effect\fightskill\zongmen\zh_130_kunlongbi_a4.spr		0	1		Đoàn thị 180			
-680	body	1		\image\effect\fightskill\xiaoyao\zxy_50_ygtj_a.spr		0	1		Đoàn thị chi 180			
-681	body	1		\image\effect\fightskill\zongmen\zh_120_jsdlgreen_c1.spr		0	1		Ngủ Độc đao 180			
-682	body	1		\image\effect\fightskill\zongmen\zh_130_cxfxgreen_a.spr		0	1		Ngủ Độc Chưởng 180			
-683	body	0		\image\effect\fightskill\zongmen\zh_120_xuanfengnuzhan_a.spr		0	1		Thiếu Lâm Đao 180			
-684	body	1		\image\effect\fightskill\zongmen\zh_90_chunyilanshanpurple_a.spr		0	1		Thúy yên đao 180			
-685	body	1		\image\effect\fightskill\public\vn_gaojigedang.spr		0	1		Côn lôn đao 180			
-686	body	1		\image\effect\fightskill\zongmen\zh_130_kunlongbi_a.spr		0	1		Võ đang khí 180			
-687	head	1		\image\effect\other\state_talking.spr		1	1					
-688	body	1		\image\effect\fightskill\zongmen\zh_130_bmrwblue_a.spr		1	1		
-689	body	1		\image\effect\fightskill\gumupai\zgm_60_xsdf_b.spr	\image\fightskill\icon_thangtien.spr	1	1	2	Thăng Tiên			
-690	body	1		\image\effect\fightskill\xiaoyao\xy_120_mrt_a.spr	\image\fightskill\icon_nhapma.spr	1	1	3	Nhập Ma			
-693	ground	0		\image\effect\fightskill\zongmen\zh_130_chenxifuxiao_a.spr		1	1		Thần thú 13			
-694	ground	0		\image\effect\other\statue_aura1.spr		1	1		Vòng Sáng Thần thú 15			
-695	body	1		\image\vongsang\vsphapbao.spr		1	1	2	Vòng Sáng Pháp Bảo 			
-696	body	0			\image\fightskill\kinhmach\small_cuuduongthancong.spr	1	1	2	Cửu Dương Thần Công			
-697	ground	0		\image\fightskill\vs18.spr		1	1		Đặc hiệu vòng sáng THVS
-698	ground	0		\image\fightskill\vs25.spr		1	1		Phi Long Tướng 			
-699	ground	0		\image\vongsang\cuukiem.spr		1	1		Phi Long Thành Chủ 			
+677	ground	0		\image\effect\other\vn_vip_huangse.spr		1	0		
+678	ground	0		\image\effect\other\vn_vip_lanse.spr		1	0		
+679	ground	0		\image\effect\other\vn_vip_zise.spr		1	0		
+680	body	1		\image\effect\other\wangguan_vn.spr		1	1	2	Thiên Hạ Vô Song ( Vương Miệng )			
+685	ground	1		\image\effect\fightskill\public\guanxian_halo_5.spr		1	0	2	Thần Thú Cấp 11		
+686	head	1		\image\danhhieu\danhhieu.spr	\image\VuKhi\Icon_TuTien.spr	1	0	2	Phong Vân Thần Khí				
+687	ground	1		\image\5vongsangthanthu\vongsangvip16.spr	\image\5vongsangthanthu\vongsangvip16.spr	1	0	2	Thương Ưng Thú			
+688	head	1				1	0	2	Dương Duy Mạch			
+689	head	2				1	0	2	Âm Duy Mạch			
+690	head	3				1	0	2	Đốc Mạch			
+691	head	4				1	0	2	Quan Nguyên			
+692	head	5				1	0	2	Xung Mạch			
+693	head	6				1	0	2	Khí Hải			
+694	head	7				1	0	2	Mệnh Môn			
+695	head	8				1	0	2	Thiện Trung			
+696	head	9				1	0	2	Ấn Đường			
+697	head	10				1	0	2	Dương Khiêu Mạch			
+698	head	11				1	0	2	Âm Khiêu Mạch			
+699	head	12				1	0	2	Đới Mạch			
+700	head	13				1	0	2	Chu Thiên			
+701	head	14			\image\fightskill\kinhmach\small_cuuduongthancong.spr	1	0	2	Bát Mạch Kỳ Kinh			
+702	head	15				1	0	2	Nhâm Mạch			
+703	head	16				1	0	2	Tâm Mạch
+705	body	1		\image\effect\fightskill\zongmen\zh_130_kunlongbi_c4.spr	\image\fightskill\icon_thangtien.spr	1	1	2	Bup Thăng Tiên
+706	body	1		\image\effect\fightskill\public\huahuan_jiaodi.spr	\image\fightskill\icon_nhapma.spr	1	1	2	Bup Nhập Ma		
+707	ground	0			\image\fightskill\icon_tsn.spr	1	0	2	Nhân Thú Hợp Nhất			
+708	body	1			\image\fightskill\icon_thangtien.spr	1	0	2	Thăng Tiên Thần Tướng			
+709	body	1			\image\fightskill\icon_nhapma.spr	1	0	2	Nhập Ma Thần Quỷ						
+710	ground	2		\image\effect\fightskill\public\guanxian_halo_5.spr		0	1		Vòng Sáng Buff Skill Thăng Tiên		
+711	ground	2		\image\5vongsangthanthu\VongCap5.spr		0	1		Vòng Sáng Buff Skill Nhập Ma		
+712	ground	0		\image\effect\fightskill\npc\junying__BOSS_1.spr		1	0	2	Pháp Bảo	
+713	ground	0		\image\effect\fightskill\tianren\tr_110_fhwj_b.spr		1	1	2	Vòng Sáng Ngựa Lv 1			
+714	ground	0		\image\effect\fightskill\public\guanxian_halo_5.spr		1	1	2	Vòng Sáng Ngựa Lv 2			
+715	ground	0		\image\effect\other\statue_aura1.spr		1	1	2	Vòng Sáng Ngựa Lv 3			
+716	ground	0		\image\effect\fightskill\gumupai\zgm_10_bx_a.spr		1	1	2	Vòng Sáng Ngựa Lv 4			
+717	ground	1		\image\effect\fightskill\gumupai\zgm_90_lh_a.spr		1	1	2	Vòng Sáng Ngựa Lv 5			
+718	ground	1		\image\effect\other\dianfengduijue.spr		1	1	2	Vòng Sáng Ngựa Lv 6			
+719	ground	1		\image\effect\fightskill\xiaoyao\xy_90_xzfs_a.spr		1	1	2	Vòng Sáng Ngựa Lv 7	
+720	ground	0			\image\fightskill\icon_ct.spr	1	0	2	Bát Hoang Lục Hợp	
+721	body	1		\image\effect\fightskill\zongmen\zh_120_xuanfengnuzhan_a.spr		0	1		Vòng Sáng Skill 180 TLĐ			
+722	body	1		\image\effect\fightskill\zongmen\zh_120_qixingguyuered_a.spr		0	1		Vòng Sáng Skill 180 TNK			
+723	body	1		\image\effect\fightskill\xiaoyao\xy_110_zyshy_c2.spr		0	1		Vòng Sáng Skill 180 MN			
+724	body	1		\image\effect\fightskill\emei\em_120_ydch_b.spr		0	1		Vòng Sáng Skill 180 NMK			
+725	body	1		\image\effect\fightskill\gumupai\zgm_40_bpyz_a.spr		0	1		Vòng Sáng Skill 180 VĐK			
+726	body	1		\image\effect\fightskill\xiaoyao\xy_30_zqfgy_c2.spr		0	1		Vòng Sáng Skill 180 ĐTC
+727	ground	0		\image\effect\fightskill\zongmen\zh_120_qixingguyue_a.spr		1	1	2	Vòng Sáng Tong Kim			
+728	body	1		\image\effect\other\state_boss.spr		1	1	2	Vòng Sáng Ngựa Lv 8
+729	ground	0		\image\effect\other\jingetiema.spr		1	1	2	Vòng Sáng Đại Gia
+730	body	1		\image\VanSuc\vsvansuc.spr		1	1	2	Vòng Sáng Văn Sức
+731	ground	1		\image\effect\fightskill\zongmen\zh_130_bmrwblue_a.spr		1	1	2	Vòng Sáng Ngựa Lv 8	
+732	ground	0		\image\effect\fightskill\zongmen\zh_90_chunyilanshanpurple_a.spr		1	1	2	Danh Hiệu Loạn Chiến	
+733	ground	1		\image\effect\fightskill\tianren\tr_110_fhwj_b.spr		0	1		Thiên vương chùy 180			
+734	body	1		\image\effect\fightskill\zongmen\zh_130_chenxifuxiao_a.spr		0	1		Chiến nhẫn 180			
+735	body	1		\image\effect\fightskill\zongmen\zh_130_kunlongbi_a4.spr		0	1		Đoàn thị 180			
+736	body	1		\image\effect\fightskill\xiaoyao\zxy_50_ygtj_a.spr		0	1		Đoàn thị chi 180			
+737	body	1		\image\effect\fightskill\zongmen\zh_120_jsdlgreen_c1.spr		0	1		Ngủ Độc đao 180			
+738	body	1		\image\effect\fightskill\zongmen\zh_130_cxfxgreen_a.spr		0	1		Ngủ Độc Chưởng 180			
+739	body	1		\image\effect\fightskill\zongmen\zh_120_xuanfengnuzhan_a.spr		0	1		Thiếu Lâm Đao 180			
+740	body	1		\image\effect\fightskill\zongmen\zh_90_chunyilanshanpurple_a.spr		0	1		Thúy yên đao 180			
+741	body	1		\image\effect\fightskill\public\vn_gaojigedang.spr		0	1		Côn lôn đao 180			
+742	body	1		\image\effect\fightskill\zongmen\zh_130_kunlongbi_a.spr		0	1		Võ đang khí 180
+743	body	1		\image\TinVat\tv01.spr		1	1	2	Vòng Sáng Tín Vật 1 - 3
+744	body	1		\image\TinVat\tv02.spr		1	1	2	Vòng Sáng Tín Vật 3 - 6
+745	body	1		\image\TinVat\tv03.spr		1	1	2	Vòng Sáng Tín Vật 7 - 8
+746	body	1		\image\TinVat\tv04.spr		1	1	2	Vòng Sáng Tín Vật 10
+747	ground	0		\image\fightskill\Phetong.spr		1	1	2	Có công bảo vệ Điêu Tượng Tống
+748	ground	0		\image\fightskill\phekim.spr		1	1	2	Có công bảo vệ Điêu Tượng Kim
+749	ground	1		\image\effect\fightskill\kunlun\kl_120_jrwy_a.spr		1	1	2	Vòng Sáng Ngựa Lv 9
+750	body	1		\image\effect\fightskill\xiaoyao\xy_110_zyshy_b1.spr		1	0	2	Chân Hỏa Hộ Thể	
+751	body	1		\image\TinVat\hophap.spr		1	0	2	Hộ Pháp
+752	ground	1		\image\vsvipcacne\2017_viphorse_rs01.spr		1	1	2	Vòng Sáng Ngựa Lv 9	
+753	body	1		\image\effect\fightskill\zongmen\zh_120_xuanfengnuzhan_a.spr		0	1		Thiếu Lâm Đao 200			
+754	ground	0		\image\skill200\xz_fumoshi4.spr		0	1		Đường Môn Tụ Tiễn 200			
+755	ground	1		\image\effect\fightskill\shaolin\sl_30_bdmw_a.spr		0	1		Thiếu Lâm Bổng 200			
+756	ground	0		\image\effect\fightskill\zongmen\zh_120_qixinguyuepurple_a.spr		0	1		Đoàn Thị Kiếm 200			
+757	ground	2		\image\effect\fightskill\tianwang\tw_90_zxzy_a.spr		0	1		Thiên Vương Thương 200			
+758	ground	0		\image\effect\fightskill\zongmen\zh_120_qixingguyue_a.spr		0	1		Thiên Vương Chùy 200			
+759	ground	0		\image\effect\fightskill\zongmen\zh_120_qixingguyuered_a.spr		0	1		Ma Nhẫn 200			
+760	ground	0		\image\skill200\gb_150_shishengliulong_d.spr		0	1		Chiến Nhẫn 200			
+761	ground	1		\image\effect\fightskill\wudang\wd_60_tyzq_b.spr		0	1		Côn Lôn Đao 200			
+762	body	1		\image\effect\fightskill\kunlun\kl_100_flydf_a.spr		0	1		Côn Lôn Kiếm 200	
+763	ground	1		\image\effect\fightskill\gaibang\gb_90_txwg_a.spr		0	1		Cái Bang Bổng 200
+764	body	1		\image\effect\fightskill\wudang\wd_90_tdwj_a.spr		0	1		Võ Đang Khí 200			
+765	ground	1		\image\effect\fightskill\xiaoyao\xy_70_shuhuayin_b.spr		0	1		Nga My Kiếm 200			
+766	ground	1		\image\skill200\wd_150_jianchuixinghe_a.spr		0	1		Võ Đang Kiếm 200			
+767	body	1		\image\effect\fightskill\zongmen\zh_90_qiankunwudinggreen_a.spr		0	1		Ngủ Độc Chưởng 200			
+768	body	1		\image\effect\fightskill\zongmen\zh_130_songheyannian_d.spr		0	1		Thúy Yên Đao 200			
+769	ground	1		\image\effect\fightskill\cuiyan\cy_90_bxxz_a.spr		0	1		Thúy Yên Kiếm 200			
+770	ground	1		\image\effect\fightskill\mingjiao\mj_30_mqpz_b.spr		0	1		Ngủ Độc Đao 200			
+771	body	1		\image\effect\fightskill\wudu\wu_50_tgds_d.spr		0	1		Minh Giáo Chùy 200			
+772	ground	1		\image\effect\fightskill\tangmen\tm_50_tldw_a.spr		0	1		Minh Giáo Kiếm 200			
+773	body	1		\image\effect\fightskill\xiaoyao\zxy_50_ygtj_a.spr		0	1		Đoàn Thị Chỉ 200			
+774	body	1		\image\effect\fightskill\zongmen\zh_130_chenxifuxiaopurple_a.spr		0	1		Đường Môn Hãm Tĩnh 200			
+775	body	1		\script\kin\kingame\item\qiandaizan.txt	Phi Long Tại Thiên	0	1			Cái Bang Rồng 200	576	576
+776	ground	1		\image\effect\fightskill\xiaoyao\xy_40_zbgh_a.spr		0	1		Nga My Chưởng 200			
+777	body	1		\image\item\hophap\vshophap10.spr	\image\item\hophap\icon_skillhophap10.spr	1	0	1	Hộ Pháp			
+778	ground	0		\image\effect\other\statue_aura1.spr		1	1		Vòng Sáng Thần thú 15			

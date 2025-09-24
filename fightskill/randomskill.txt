@@ -167,7 +167,7 @@ nFactionId	nRouteId	nIndex	nReqLv	nSkillId	Name
 7	1	10	120	844	Triệt Y Thập Bát Điệt
 7	1	11	20	10	Khinh công
 7	1	12	70	1211	Thần Long Bài Vĩ
-7	1	13	100	1253	Bá Vương Tá Giáp
+7	1	13	100	1253	Thiệu Thánh Tá Giáp
 7	2	1	10	137	Duyên Môn Thác Bát
 7	2	2	30	139	Tiêu Dao Công
 7	2	3	40	132	Hoạt Bất Lưu Thủ
